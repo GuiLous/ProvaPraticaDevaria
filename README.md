@@ -47,6 +47,8 @@ Obs: Todos os comandos são sem aspas("). Exemplo: "npm install" vc digital npm 
 7° Por fim, rode "yarn dev:server" dentro da pasta "backend" para startar o servidor backend(api).
 
 <br/>
+<br/>
+<br/>
 ###(Frontend)
   <br/>
   ->Informações úteis
