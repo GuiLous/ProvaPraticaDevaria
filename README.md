@@ -15,9 +15,11 @@ Obs: Todos os comandos são sem aspas("). Exemplo: "npm install" vc digital npm 
   <br/>
     Node com npm> https://nodejs.org/en/download/
     <br/>
+    <br/>
 -> Necessário ter o Yarn instalado.
    <br/>
    *Como instalar mais abaixo.
+   <br/>
    <br/>
 -> Necessário PostgresSql instalado.
   <br/>
@@ -25,6 +27,7 @@ Obs: Todos os comandos são sem aspas("). Exemplo: "npm install" vc digital npm 
   <br/>
     PostgresSql https://www.postgresql.org/download/
 
+<br/>
 <br/>
 1° Após clonar o projeto, abra o arquivo backend e rode o comando "npm install" para instalar todas as dependências.
 <br/>
@@ -57,6 +60,7 @@ Obs: Todos os comandos são sem aspas("). Exemplo: "npm install" vc digital npm 
     <br/>
     *Senha padrão: "teste"
 
+<br/>
 <br/>
 1° Abra o arquivo frontend e rode o comando "npm install" para instalar todas dependências.
 <br/>
