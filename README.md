@@ -5,10 +5,14 @@ Sistema simples de módulos e aulas
 
 Obs: Todos os comandos são sem aspas("). Exemplo: "npm install" vc digital npm install (sem as aspas).
 <br/>
+<br/>
 
-###(Backend Api REST)
-  PostegresSql com TypeOrm e migrations
-  
+#Tecnologias (NodeJs, ReactJs, PostgresSql, eslint, migrations, typeorm, typeScript).
+<br/><br/>
+
+###(Backend Api REST)  
+  <br/>
+  <br/>
 -> Necessário ter o Nodejs com npm.
   <br/>
   *link
